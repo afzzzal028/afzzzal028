@@ -59,6 +59,11 @@ I'm **Afzal** — a B.E. student at **Integral University, Lucknow**, and a data
 ## 🖥️ Batcomputer Analytics
 
 <p align="center">
+  <img src="./assets/contributions.svg?v=1" width="100%" alt="Orange contribution heatmap: 122 contributions in the last year">
+  <sub>122 contributions in the last year — orange means the Batcomputer was on.</sub>
+</p>
+
+<p align="center">
   <img src="./assets/languages.svg?v=2" width="100%" alt="Code by language: Jupyter Notebook 55.6%, Python 17.8%, JavaScript 16.1%, HTML 8.4%, Other 2.1%">
   <sub>Share of code across my public repositories — forks excluded.</sub>
 </p>
