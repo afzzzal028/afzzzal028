@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Afzal — data analyst. Gotham by night, Stark Labs by day.">
+  <img src="./assets/banner.svg?v=2" width="100%" alt="Afzal — data analyst. Gotham by night, Stark Labs by day.">
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ I'm **Afzal** — a B.E. student at **Integral University, Lucknow**, and a data
 ## 🖥️ Batcomputer Analytics
 
 <p align="center">
-  <img src="./assets/languages.svg" width="100%" alt="Code by language: Jupyter Notebook 55.6%, Python 17.8%, JavaScript 16.1%, HTML 8.4%, Other 2.1%">
+  <img src="./assets/languages.svg?v=2" width="100%" alt="Code by language: Jupyter Notebook 55.6%, Python 17.8%, JavaScript 16.1%, HTML 8.4%, Other 2.1%">
   <sub>Share of code across my public repositories — forks excluded.</sub>
 </p>
 
@@ -74,5 +74,5 @@ Open to **data analyst internships**, ML collaborations, and datasets that look 
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Why do we fall? So we can learn to pick ourselves up. — Alfred Pennyworth">
+  <img src="./assets/footer.svg?v=2" width="100%" alt="Why do we fall? So we can learn to pick ourselves up. — Alfred Pennyworth">
 </p>
