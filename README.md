@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1200&amp;color=F5C542&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Turning+raw+data+into+decisions;Gotham+by+night+%C2%B7+Stark+Labs+by+day;I+am+Iron+Man+of+spreadsheets" alt="Turning raw data into decisions">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;pause=1200&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Turning+raw+data+into+decisions;Gotham+by+night+%C2%B7+Stark+Labs+by+day;I+am+Iron+Man+of+spreadsheets" alt="Turning raw data into decisions">
 </p>
 
 <p align="center">
-  <sub>🟢 <b>ONLINE</b> · AVAILABLE FOR DATA ANALYST INTERNSHIPS</sub>
+  <sub>🔵 <b>ONLINE</b> · AVAILABLE FOR DATA ANALYST INTERNSHIPS</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/afzzzal028"><img src="https://img.shields.io/github/followers/afzzzal028?style=for-the-badge&amp;logo=github&amp;logoColor=F5C542&amp;label=Followers&amp;labelColor=0A0D14&amp;color=F5C542" alt="GitHub followers"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fafzzzal028&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=for-the-badge&amp;logo=github&amp;logoColor=F5C542&amp;labelColor=0A0D14&amp;color=C1121F" alt="Public repositories">
-  <a href="mailto:afzalsiddiqui1616@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0A0D14" alt="Email me"></a>
-  <img src="https://komarev.com/ghpvc/?username=afzzzal028&amp;style=for-the-badge&amp;color=F5C542&amp;label=PROFILE+VIEWS" alt="Profile views">
+  <a href="https://github.com/afzzzal028"><img src="https://img.shields.io/github/followers/afzzzal028?style=for-the-badge&amp;logo=github&amp;logoColor=2F81F7&amp;label=Followers&amp;labelColor=05070A&amp;color=2F81F7" alt="GitHub followers"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fafzzzal028&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=for-the-badge&amp;logo=github&amp;logoColor=2F81F7&amp;labelColor=05070A&amp;color=FF6B1A" alt="Public repositories">
+  <a href="mailto:afzalsiddiqui1616@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=05070A" alt="Email me"></a>
+  <img src="https://komarev.com/ghpvc/?username=afzzzal028&amp;style=for-the-badge&amp;color=2F81F7&amp;label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ## 🦇 The Origin Story
@@ -70,7 +70,7 @@ Open to **data analyst internships**, ML collaborations, and datasets that look 
 <p align="center">
   <a href="mailto:afzalsiddiqui1616@gmail.com"><img src="https://img.shields.io/badge/Email-afzalsiddiqui1616%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
   <a href="https://github.com/afzzzal028"><img src="https://img.shields.io/badge/GitHub-afzzzal028-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-  <a href="https://complianceai.vercel.app"><img src="https://img.shields.io/badge/Project-ComplianceAI-C1121F?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="ComplianceAI live demo"></a>
+  <a href="https://complianceai.vercel.app"><img src="https://img.shields.io/badge/Project-ComplianceAI-FF6B1A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="ComplianceAI live demo"></a>
 </p>
 
 <p align="center">

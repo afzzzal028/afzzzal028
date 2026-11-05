@@ -1,39 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Afzal — data analyst. Gotham by night, Stark Labs by day.">
   <defs>
     <linearGradient id="gotham" x1="0" y1="0" x2="0.8" y2="1">
-      <stop offset="0" stop-color="#04060C"/>
-      <stop offset="0.6" stop-color="#070D19"/>
-      <stop offset="1" stop-color="#0C1728"/>
+      <stop offset="0" stop-color="#05070A"/>
+      <stop offset="0.6" stop-color="#071019"/>
+      <stop offset="1" stop-color="#0A1A2E"/>
     </linearGradient>
     <linearGradient id="stark" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1B0505"/>
-      <stop offset="0.55" stop-color="#2B0808"/>
-      <stop offset="1" stop-color="#431010"/>
+      <stop offset="0" stop-color="#08090C"/>
+      <stop offset="0.55" stop-color="#120C0A"/>
+      <stop offset="1" stop-color="#1E1008"/>
     </linearGradient>
     <linearGradient id="divider" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#F5C542" stop-opacity="0"/>
-      <stop offset="0.2" stop-color="#F5C542"/>
-      <stop offset="0.8" stop-color="#C1121F"/>
-      <stop offset="1" stop-color="#C1121F" stop-opacity="0"/>
+      <stop offset="0" stop-color="#2F81F7" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#2F81F7"/>
+      <stop offset="0.78" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#FF6B1A"/>
     </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#F5C542"/>
-      <stop offset="1" stop-color="#C1121F"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2F81F7"/>
+      <stop offset="0.72" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#FF6B1A"/>
     </linearGradient>
     <radialGradient id="signal">
-      <stop offset="0" stop-color="#F5C542" stop-opacity="0.22"/>
-      <stop offset="0.65" stop-color="#F5C542" stop-opacity="0.08"/>
-      <stop offset="1" stop-color="#F5C542" stop-opacity="0"/>
+      <stop offset="0" stop-color="#2F81F7" stop-opacity="0.26"/>
+      <stop offset="0.65" stop-color="#2F81F7" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#2F81F7" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="core">
       <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="0.35" stop-color="#C9F7FF"/>
+      <stop offset="0.35" stop-color="#D6F4FF"/>
       <stop offset="0.7" stop-color="#7DD3FC" stop-opacity="0.85"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2F81F7" stop-opacity="0"/>
     </radialGradient>
     <pattern id="win" width="12" height="14" patternUnits="userSpaceOnUse">
-      <rect x="2" y="3" width="3" height="3" fill="#F5C542" opacity="0.5"/>
-      <rect x="7" y="8" width="3" height="3" fill="#9BE7FF" opacity="0.28"/>
+      <rect x="2" y="3" width="3" height="3" fill="#7DD3FC" opacity="0.42"/>
+      <rect x="7" y="8" width="3" height="3" fill="#FF6B1A" opacity="0.38"/>
     </pattern>
     <g id="city">
       <rect x="0" y="316" width="46" height="64"/>
@@ -61,61 +62,61 @@
   <!-- Panels -->
   <rect width="700" height="380" fill="url(#gotham)"/>
   <rect x="700" width="500" height="380" fill="url(#stark)"/>
-  <path d="M700 380 L1200 168 L1200 380 Z" fill="#C1121F" opacity="0.07"/>
-  <path d="M700 380 L1200 262 L1200 380 Z" fill="#F5C542" opacity="0.035"/>
+  <path d="M700 380 L1200 168 L1200 380 Z" fill="#FF6B1A" opacity="0.055"/>
+  <path d="M700 380 L1200 262 L1200 380 Z" fill="#2F81F7" opacity="0.07"/>
 
   <!-- Gotham sky -->
   <circle cx="590" cy="116" r="120" fill="url(#signal)"/>
-  <circle cx="590" cy="116" r="47" fill="#F5C542" fill-opacity="0.10" stroke="#F5C542" stroke-opacity="0.35" stroke-width="1"/>
+  <circle cx="590" cy="116" r="47" fill="#2F81F7" fill-opacity="0.08" stroke="#4C9AFF" stroke-opacity="0.4" stroke-width="1"/>
   <g transform="translate(590,94) scale(0.78)">
     <path d="M0,18 C-6,18 -12,14 -22,15 C-34,16 -42,10 -52,9 C-47,15 -46,21 -38,25 C-46,27 -52,26 -58,29 C-47,32 -38,38 -28,36 C-20,35 -12,40 -6,47 C-4,40 -2,36 0,36 C2,36 4,40 6,47 C12,40 20,35 28,36 C38,38 47,32 58,29 C52,26 46,27 38,25 C46,21 47,15 52,9 C42,10 34,16 22,15 C12,14 6,18 0,18 Z" fill="#02040A"/>
   </g>
 
   <!-- Gotham skyline -->
   <g clip-path="url(#cityClip)">
-    <rect x="0" y="248" width="700" height="132" fill="#060A12"/>
+    <rect x="0" y="248" width="700" height="132" fill="#04080F"/>
     <rect x="0" y="248" width="700" height="132" fill="url(#win)"/>
   </g>
-  <g stroke="#05080F" stroke-width="2" stroke-linecap="round">
+  <g stroke="#04080F" stroke-width="2" stroke-linecap="round">
     <line x1="149" y1="284" x2="149" y2="266"/>
     <line x1="293" y1="276" x2="293" y2="260"/>
     <line x1="593" y1="268" x2="593" y2="246"/>
   </g>
-  <circle cx="593" cy="246" r="2.2" fill="#C1121F" opacity="0.9"/>
-  <circle cx="593" cy="246" r="6" fill="#C1121F" opacity="0.18"/>
+  <circle cx="593" cy="246" r="2.2" fill="#FF6B1A" opacity="0.95"/>
+  <circle cx="593" cy="246" r="6" fill="#FF6B1A" opacity="0.18"/>
 
   <!-- Identity -->
-  <text x="64" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="4" fill="#F5C542">GOTHAM CITY · 02:00 AM</text>
-  <text x="62" y="178" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="1" fill="#F3F6FB">AFZAL</text>
-  <rect x="65" y="196" width="98" height="4" rx="2" fill="url(#gold)"/>
+  <text x="64" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="4" fill="#4C9AFF">GOTHAM CITY · 02:00 AM</text>
+  <text x="62" y="178" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="1" fill="#F5F9FF">AFZAL</text>
+  <rect x="65" y="196" width="98" height="4" rx="2" fill="url(#accent)"/>
   <text x="64" y="234" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="500" fill="#C3CFE2">Turning messy data into decisions.</text>
-  <text x="64" y="262" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="3.2" fill="#C9A227">GOTHAM BY NIGHT · STARK LABS BY DAY</text>
+  <text x="64" y="262" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="3.2" fill="#7FA7D9">GOTHAM BY NIGHT · STARK LABS BY DAY</text>
 
   <!-- Divider -->
   <rect x="697" y="0" width="6" height="380" fill="url(#divider)" opacity="0.38" filter="url(#softBlur)"/>
   <rect x="699" y="0" width="1.6" height="380" fill="url(#divider)"/>
 
   <!-- Stark HUD -->
-  <g stroke="#C1121F" stroke-opacity="0.55" stroke-width="1.5" fill="none">
+  <g stroke="#2F81F7" stroke-opacity="0.5" stroke-width="1.5" fill="none">
     <path d="M728 84 V72 H740"/>
     <path d="M1152 72 H1164 V84"/>
     <path d="M728 296 V308 H740"/>
     <path d="M1152 308 H1164 V296"/>
   </g>
-  <text x="1164" y="88" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="4" fill="#F5C542">STARK INDUSTRIES</text>
-  <text x="1164" y="108" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" letter-spacing="2" fill="#C98B8B">MARK VII · DATA SUIT</text>
+  <text x="1164" y="88" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="4" fill="#FF8A3D">STARK INDUSTRIES</text>
+  <text x="1164" y="108" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" letter-spacing="2" fill="#7FA7D9">MARK VII · DATA SUIT</text>
 
   <!-- Arc reactor -->
   <circle cx="952" cy="170" r="122" fill="url(#core)" opacity="0.34"/>
   <circle cx="952" cy="170" r="66" fill="none" stroke="#7DD3FC" stroke-opacity="0.25" stroke-width="1"/>
-  <circle cx="952" cy="170" r="57" fill="none" stroke="#F5C542" stroke-opacity="0.32" stroke-width="1" stroke-dasharray="2 7"/>
-  <circle cx="952" cy="170" r="46" fill="none" stroke="#9BE7FF" stroke-opacity="0.75" stroke-width="5" stroke-dasharray="2 12"/>
-  <circle cx="952" cy="170" r="34" fill="none" stroke="#F5C542" stroke-opacity="0.45" stroke-width="1"/>
-  <circle cx="952" cy="170" r="26" fill="#0A1119" stroke="#9BE7FF" stroke-opacity="0.85" stroke-width="2"/>
+  <circle cx="952" cy="170" r="57" fill="none" stroke="#FF6B1A" stroke-opacity="0.38" stroke-width="1" stroke-dasharray="2 7"/>
+  <circle cx="952" cy="170" r="46" fill="none" stroke="#9ECBFF" stroke-opacity="0.78" stroke-width="5" stroke-dasharray="2 12"/>
+  <circle cx="952" cy="170" r="34" fill="none" stroke="#2F81F7" stroke-opacity="0.55" stroke-width="1"/>
+  <circle cx="952" cy="170" r="26" fill="#060A12" stroke="#9ECBFF" stroke-opacity="0.85" stroke-width="2"/>
   <circle cx="952" cy="170" r="18" fill="url(#core)"/>
   <circle cx="952" cy="170" r="7.5" fill="#EAFBFF"/>
-  <path d="M952 148 L969 178 L935 178 Z" fill="none" stroke="#F5C542" stroke-opacity="0.38" stroke-width="1"/>
+  <path d="M952 148 L969 178 L935 178 Z" fill="none" stroke="#FF6B1A" stroke-opacity="0.42" stroke-width="1"/>
 
-  <text x="952" y="300" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10" letter-spacing="3" fill="#9BE7FF" opacity="0.85">ARC REACTOR</text>
-  <text x="952" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="9.5" fill="#E8A0A0" opacity="0.75">PWR 98.6%   ·   INTEGRITY 100%</text>
+  <text x="952" y="300" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10" letter-spacing="3" fill="#9ECBFF" opacity="0.85">ARC REACTOR</text>
+  <text x="952" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="9.5" fill="#8B98A9" opacity="0.85">PWR 98.6%   ·   INTEGRITY 100%</text>
 </svg>

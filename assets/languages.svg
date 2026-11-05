@@ -4,33 +4,33 @@
       <rect x="36" y="70" width="1128" height="18" rx="9"/>
     </clipPath>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#F5C542"/>
-      <stop offset="0.55" stop-color="#C1121F"/>
-      <stop offset="1" stop-color="#C1121F" stop-opacity="0"/>
+      <stop offset="0" stop-color="#2F81F7"/>
+      <stop offset="0.78" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#FF6B1A"/>
     </linearGradient>
-    <radialGradient id="glowRed" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#C1121F" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#C1121F" stop-opacity="0"/>
+    <radialGradient id="glowBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2F81F7" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#2F81F7" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowGold" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#F5C542" stop-opacity="0.08"/>
-      <stop offset="1" stop-color="#F5C542" stop-opacity="0"/>
+    <radialGradient id="glowOrange" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF6B1A" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FF6B1A" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="178" rx="14" fill="#080B12" stroke="#2A1616" stroke-width="1.5"/>
-  <rect x="14" y="1" width="1172" height="2" rx="1" fill="url(#edge)" opacity="0.85"/>
-  <circle cx="1160" cy="0" r="220" fill="url(#glowRed)"/>
-  <circle cx="40" cy="180" r="180" fill="url(#glowGold)"/>
+  <rect x="1" y="1" width="1198" height="178" rx="14" fill="#080B12" stroke="#17304F" stroke-width="1.5"/>
+  <rect x="14" y="1" width="1172" height="2" rx="1" fill="url(#edge)" opacity="0.9"/>
+  <circle cx="1160" cy="0" r="220" fill="url(#glowOrange)"/>
+  <circle cx="40" cy="180" r="180" fill="url(#glowBlue)"/>
 
   <!-- bat mark -->
   <g transform="translate(44,34) scale(0.14)">
-    <path d="M0,18 C-6,18 -12,14 -22,15 C-34,16 -42,10 -52,9 C-47,15 -46,21 -38,25 C-46,27 -52,26 -58,29 C-47,32 -38,38 -28,36 C-20,35 -12,40 -6,47 C-4,40 -2,36 0,36 C2,36 4,40 6,47 C12,40 20,35 28,36 C38,38 47,32 58,29 C52,26 46,27 38,25 C46,21 47,15 52,9 C42,10 34,16 22,15 C12,14 6,18 0,18 Z" fill="#F5C542" opacity="0.9"/>
+    <path d="M0,18 C-6,18 -12,14 -22,15 C-34,16 -42,10 -52,9 C-47,15 -46,21 -38,25 C-46,27 -52,26 -58,29 C-47,32 -38,38 -28,36 C-20,35 -12,40 -6,47 C-4,40 -2,36 0,36 C2,36 4,40 6,47 C12,40 20,35 28,36 C38,38 47,32 58,29 C52,26 46,27 38,25 C46,21 47,15 52,9 C42,10 34,16 22,15 C12,14 6,18 0,18 Z" fill="#4C9AFF" opacity="0.9"/>
   </g>
-  <text x="62" y="47" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2" fill="#F5C542">CODE BY LANGUAGE</text>
+  <text x="62" y="47" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2" fill="#4C9AFF">CODE BY LANGUAGE</text>
   <text x="1164" y="47" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="10" letter-spacing="1.5" fill="#6B7280">17 PUBLIC REPOSITORIES · FORKS EXCLUDED</text>
 
-  <rect x="36" y="70" width="1128" height="18" rx="9" fill="#141A24"/>
+  <rect x="36" y="70" width="1128" height="18" rx="9" fill="#121A26"/>
 
   <g clip-path="url(#barClip)">
     <rect x="36" y="70" width="627.2" height="18" fill="#F37626"/>
